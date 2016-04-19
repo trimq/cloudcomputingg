@@ -31,7 +31,7 @@ Cloud Computing là 1 mô hình cho phép trao đổi 1 cách thuận tiện v�
 ####3.4 mô hình triển khai:
 <ul>
 <li>Private cloud: Được cung cấp cho nội bộ tổ chức, ít nhu cầu bảo mật và tính pháp lý so với public cloud</li>
-<li>Public cloud**: Là dịch vụ cung cấp cho khách hàng sử dụng thông qua internet</li>
+<li>Public cloud: Là dịch vụ cung cấp cho khách hàng sử dụng thông qua internet</li>
 <li>Hybrid cloud: Là sự kết hợp giữa private cloud và public cloud</li>
 <li>Community cloud: Sự kết hợp giữa nhiều cloud service provider</li>
 </ul>
