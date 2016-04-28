@@ -96,27 +96,3 @@ Là nền tảng mã nguồn mở, được sử dụng để xây dựng mô h�
 <li>Tạo, sửa, xóa tài khoản và nhóm người dùng</li>
 <li>Hỗ trợ và có thể kết hợp với LDAP, PAM, SQL..</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
